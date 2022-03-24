@@ -1,0 +1,30 @@
+body {
+	background: #000000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+*{
+	font-family: verdana;
+	box-sizing: border-box;
+}
+
+form {
+	width: 350px;
+	border: 2px solid #ccc;
+	padding: 30px;
+	background: #ffffff;
+	border-radius: 15px;
+}
+body {
+              background-color:#999999;
+              font-family: 'Oswald', sans-serif;
+      }
+p
+{
+  color:#000000;
+  font-size:20px;
+ } 
